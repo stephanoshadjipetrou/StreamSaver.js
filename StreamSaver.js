@@ -30,7 +30,7 @@
 		WritableStream: window.WritableStream || ponyfill.WritableStream,
 		supported: true,
 		version: { full: "2.0.0", major: 2, minor: 0, dot: 0 },
-		mitm: "https://datastore.iati.cloud/mitm.html"
+		mitm: "https://datastore.iati.cloud/streamsaver/mitm.html"
 	};
 
 	/**
