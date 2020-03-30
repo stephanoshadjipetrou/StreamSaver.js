@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://jimmywarting@github.com/jimmywarting/StreamSaver.js.git"
+        "url": "git+https://stephanoshadjipetrou@github.com/stephanoshadjipetrou/StreamSaver.js.git"
     },
     "keywords": [
         "saving",
@@ -18,10 +18,10 @@
         "file",
         "blob"
     ],
-    "author": "Jimmy Wärting <jimmy@warting.se>",
+    "author": "",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/jimmywarting/StreamSaver.js/issues"
+        "url": "https://github.com/stephanoshadjipetrou/StreamSaver.js/issues"
     },
-    "homepage": "https://github.com/jimmywarting/StreamSaver.js#readme"
+    "homepage": "https://github.com/stephanoshadjipetrou/StreamSaver.js#readme"
 }
